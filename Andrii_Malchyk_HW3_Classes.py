@@ -1,3 +1,9 @@
+"""
+Author: Andrii Malchyk
+v.1.0
+"""
+
+
 class Rectangle:
     sideA = 5.8
     sideB = 13.5
